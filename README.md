@@ -23,15 +23,13 @@ https://sspai.com/post/60024
 
 5. **长按**发送按钮，打开设置页面进行必要设置
 
-   <img src="https://i.loli.net/2020/04/22/YM5CJ6vb4OIdemy.png" style="zoom:33%;" />
+   **Title：** 这里是发送界面顶端的文字，请随意修改
 
-   **Title：**这里是发送界面顶端的文字，请随意修改
+   **AppID、MasterKey：** 网页打开LeanCloud，在你的项目里点击``设置/应用Keys``，复制对应的密钥分别填入
 
-   **AppID、MasterKey：**网页打开LeanCloud，在你的项目里点击``设置/应用Keys``，复制对应的密钥分别填入
+   **className：** 一般是`content`，只要你是按照[少数派的指南](https://sspai.com/post/60024)来做的话
 
-   **className：**一般是`content`，只要你是按照[少数派的指南](https://sspai.com/post/60024)来做的话
-
-   **--insecure：**是否在脚本命令末尾加上`--insecue`参数。默认关闭，如果无法发送可以尝试打开这个选项试试。
+   **--insecure：** 是否在脚本命令末尾加上`--insecue`参数。默认关闭，如果无法发送可以尝试打开这个选项试试。
    
    **完成后点击确认返回**
 
