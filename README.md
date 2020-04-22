@@ -1,6 +1,6 @@
 # 简介
 
-这是一个向[废话胶囊（b言b语）](https://github.com/daibor/nonsense.fun)发送内容的简单 Tasker 工程。
+这是一个在Android上向[废话胶囊（b言b语）](https://github.com/daibor/nonsense.fun)发送内容的简单 Tasker 工程。
 
 https://sspai.com/post/60024
 
