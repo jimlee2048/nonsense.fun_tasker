@@ -1,5 +1,7 @@
 # 简介
 
+<img src="https://i.loli.net/2020/04/22/Hy7kwJL8FDr6I5O.png" width = "360" height = "640" alt="图片名称" align=center />
+
 这是一个在Android上向[废话胶囊（b言b语）](https://github.com/daibor/nonsense.fun)发送内容的简单 Tasker 工程。
 
 https://sspai.com/post/60024
