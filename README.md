@@ -31,7 +31,7 @@ https://sspai.com/post/60024
 
    **className：** 一般是`content`，只要你是按照[少数派的指南](https://sspai.com/post/60024)来做的话
 
-   **--insecure：** 是否在脚本命令末尾加上`--insecue`参数。默认关闭，如果无法发送可以尝试打开这个选项试试。
+   **--insecure：** 是否在脚本命令末尾加上`--insecure`参数。默认关闭，如果无法发送可以尝试打开这个选项试试。
    
    **完成后点击确认返回**
 
