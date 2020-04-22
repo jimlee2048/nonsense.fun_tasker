@@ -7,7 +7,7 @@ https://sspai.com/post/60024
 
 # 效果展示
 
-<img src="https://i.loli.net/2020/04/22/Hy7kwJL8FDr6I5O.png" style="zoom: 33%;" />
+<img src="https://i.loli.net/2020/04/22/Hy7kwJL8FDr6I5O.png" style="zoom: 13%;" />
 
 # 安装配置
 
