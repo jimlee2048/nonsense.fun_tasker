@@ -49,7 +49,7 @@ https://sspai.com/post/60024
 
 ## 通过 Tasker Secondary 打开
 
-## 通过桌面快捷方式打开
+## 通过桌面小工具创建快捷方式打开
 
 1. 打开Tasker，然后**点击返回键**回到主界面。
 
