@@ -6,62 +6,74 @@
 
 https://sspai.com/post/60024
 
-图文教程请见 [我的博客](https://jimlee2002.github.io/posts/4394c3fa.html)
+图文教程请见 [我的博客](https://jimlee2002.github.io/posts/4394c3fa.html)。
 
 # 安装配置
 
-**注意：部分手机可能需要Root权限才能使用，该工程默认开启``使用Root运行``，可以自行到`场景/Main/发送/按下` 的第5个和第6个任务里关掉**
+## 1. 直接下载安装已经导出好的[apk文件](https://github.com/jimlee2002/nonsense.fun_tasker/releases)
 
-1. 将本项目里的``bb.prj.xml``存入手机任意你找得到的位置
+应用使用插件`Tasker App Factory`导出。
 
-2. 下载安装Tasker
+注意，该应用**需要root权限**。
 
-3. 进入主界面长按左下角的按钮，点击`导入项目`，在打开的界面中找到并打开刚才存入的`bb.prj.xml`
+## 2. 导入Tasker工程
+
+**注意：部分手机可能需要Root权限才能使用，该工程默认开启``使用Root运行``，可以自行到`场景/Main/发送/按下` 的第6个和第8个任务里关掉。**
+
+1. 将本项目里的``bb.prj.xml``存入手机任意你找得到的位置。
+
+2. 下载安装Tasker。
+
+3. 进入主界面长按左下角的按钮，点击`导入项目`，在打开的界面中找到并打开刚才存入的`bb.prj.xml。`
 
    > 提示：点击右下角的手机按钮可以快速回到内部储存空间目录
    >
    
-4. 完成后回到主界面，点击应用栏里图标长得和Tasker很像的`Tasker Secondary`，打开界面
+4. 完成后回到主界面，点击应用栏里图标长得和Tasker很像的`Tasker Secondary`，打开界面。
 
-5. **长按**发送按钮，打开设置页面进行必要设置
+5. **长按**发送按钮，打开设置页面进行必要设置。
 
-   **Title：** 这里是发送界面顶端的文字，请随意修改
+   **Title：** 这里是发送界面顶端的文字，请随意修改。
 
-   **AppID、MasterKey：** 网页打开LeanCloud，在你的项目里点击``设置/应用Keys``，复制对应的密钥分别填入
+   **AppID、MasterKey：** 网页打开LeanCloud，在你的项目里点击``设置/应用Keys``，复制对应的密钥分别填入。
 
-   **className：** 一般是`content`，只要你是按照[少数派的指南](https://sspai.com/post/60024)来做的话
+   **className：** 一般是`content`，只要你是按照[少数派的指南](https://sspai.com/post/60024)来做的话。
 
    **--insecure：** 是否在脚本命令末尾加上`--insecure`参数。默认关闭，如果无法发送可以尝试打开这个选项试试。
    
-   **完成后点击确认返回**
+   **完成后点击确认返回**。
 
 这样就配置完成了，请试试看吧！
 
-# 使用方法
+# Tasker工程使用方法
 
 ## 通过 Tasker Secondary 打开
 
 ## 通过桌面快捷方式打开
 
-1. 打开Tasker，然后**点击返回键**回到主界面
+1. 打开Tasker，然后**点击返回键**回到主界面。
 
-2. 在桌面上新建Tasker的桌面小部件"任务"
+2. 在桌面上新建Tasker的桌面小部件"任务"，
 
-   进入界面后选择`Show UI`
+   进入界面后选择`Show UI，
 
-   在界面下方选择图标，然后点击左上角返回桌面
+   在界面下方选择图标，然后点击左上角返回桌面，
 
-   完成
+   完成。
 
-## 导出为APK安装
+## 自行导出为APK安装
 
-1. Gogle Play安装`Tasker App Factory`
+**注意：你必须拥有手机的Root权限，并勾选`场景/Main/发送/按下`。的第6个和第8个任务中的`使用Root运行`选项 。**
 
-2. 打开Tasker，主界面左下方长按选择已经导入的项目,选择`导出\作为应用`
+1. Gogle Play安装`Tasker App Factory`。
 
-3. 根据提示输入包名和版本号
+2. 打开Tasker，主界面左下方长按选择已经导入的项目,选择`导出\作为应用`。
 
-4. 点击左上角返回，Tasker会将项目以APK格式导出到``内部储存/Tasker/factory/kids``并安装
+   >  提示：你可以通过点击`更名`重命名工程名称来修改应用名。
+
+3. 根据提示输入包名和版本号。
+
+4. 点击左上角返回，Tasker会将项目以APK格式导出到``内部储存/Tasker/factory/kids``并安装。
 
 # 后记
 
@@ -71,10 +83,10 @@ https://sspai.com/post/60024
 
 # 致谢
 
-感谢 [daibor](https://github.com/daibor) 制作了这么棒的[项目](https://github.com/daibor/nonsense.fun)
+感谢 [daibor](https://github.com/daibor) 制作了这么棒的[项目](https://github.com/daibor/nonsense.fun)。
 
-感谢少数派的 @SoSo 在评论下分享的方法启发了这个工程
+感谢少数派的 @SoSo 在评论下分享的方法启发了这个工程。
 
 # ToDo
-- [ ] 平板适配
+- [x] 平板适配
 - [ ] 多人版适配
