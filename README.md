@@ -6,7 +6,7 @@
 
 https://sspai.com/post/60024
 
-图文请见 [我的博客](https://jimlee2002.github.io/posts/4394c3fa.html)
+图文教程请见 [我的博客](https://jimlee2002.github.io/posts/4394c3fa.html)
 
 # 安装配置
 
