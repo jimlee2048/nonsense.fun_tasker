@@ -73,7 +73,7 @@ https://sspai.com/post/60024
 
 感谢 [daibor](https://github.com/daibor) 制作了这么棒的[项目](https://github.com/daibor/nonsense.fun)
 
-感谢 少数派的@SoSo 在评论下分享的方法为这个工程提供了思路
+感谢少数派的 @SoSo 在评论下分享的方法启发了这个工程
 
 # ToDo
 - [ ] 平板适配
