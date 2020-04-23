@@ -20,7 +20,7 @@ https://sspai.com/post/60024
 
 **注意：部分手机可能需要Root权限才能使用，该工程默认开启``使用Root运行``，可以自行到`场景/Main/发送/按下` 的第6个和第8个任务里关掉。**
 
-1. 将本项目里的``bb.prj.xml``存入手机任意你找得到的位置。
+1. [下载](https://github.com/jimlee2002/nonsense.fun_tasker/releases)``bb.prj.xml``，存入到手机任意你找得到的位置。
 
 2. 下载安装Tasker。
 
