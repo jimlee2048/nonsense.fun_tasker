@@ -69,6 +69,12 @@ https://sspai.com/post/60024
 
 个人能力有限，做的比较粗糙，还请不吝赐教！
 
+# 致谢
+
+感谢 [daibor](https://github.com/daibor) 制作了这么棒的[项目](https://github.com/daibor/nonsense.fun)
+
+感谢 少数派的@SoSo 在评论下分享的方法为这个工程提供了思路
+
 # ToDo
 - [ ] 平板适配
 - [ ] 多人版适配
