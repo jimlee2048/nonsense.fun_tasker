@@ -57,13 +57,11 @@ https://sspai.com/post/60024
 
 1. Gogle Play安装`Tasker App Factory`
 
-2. 打开Tasker，主界面左下方长按选择已经导入的项目
+2. 打开Tasker，主界面左下方长按选择已经导入的项目,选择`导出\作为应用`
 
-3. 选择`导出\作为应用`
+3 根据提示输入包名和版本号
 
-4. 根据提示输入包名和版本号
-
-5. 点击左上角返回，Tasker会进行导出并安装
+4 点击左上角返回，Tasker会将项目以APK格式导出到``内部储存/Tasker/factory/kids``并安装
 
 # 后记
 
