@@ -14,7 +14,7 @@ https://sspai.com/post/60024
 
 应用使用插件`Tasker App Factory`导出。
 
-注意，该应用**需要root权限**。
+注意，使用该应用**需要root权限**。
 
 ## 2. 导入Tasker工程
 
