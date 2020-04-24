@@ -8,11 +8,13 @@ https://sspai.com/post/60024
 
 图文教程请见 [我的博客](https://jimlee2002.github.io/posts/4394c3fa.html)。
 
+**本工程未在非root环境上测试，可能需要root权限才能使用**
+
 # 安装配置
 
 ## 1. 直接下载安装已经导出好的[apk文件](https://github.com/jimlee2002/nonsense.fun_tasker/releases)
 
-应用使用插件`Tasker App Factory`导出。
+该应用使用插件`Tasker App Factory`导出。
 
 注意，使用该应用**需要root权限**。
 
