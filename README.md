@@ -8,7 +8,7 @@ https://sspai.com/post/60024
 
 图文教程请见 [我的博客](https://jimlee2002.github.io/posts/4394c3fa.html)。
 
-**本工程未在非root环境上测试，可能需要root权限才能使用**
+**本工程未在非root环境上测试，可能需要root权限才能使用。**
 
 # 安装配置
 
